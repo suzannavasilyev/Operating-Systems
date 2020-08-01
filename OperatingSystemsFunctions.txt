@@ -1,0 +1,1 @@
+Controlling the Overall Performance - One main function of an operating system is to maintain proper performance. To do this the device mointors service requests and the systems responses. This helps improve the overall performance of the device and eliminate any disruptions that alter the performance rate.
